@@ -1,17 +1,17 @@
 @font-face {
-  font-family:Centra ;
+  font-family:'Centra' ;
   src: url('./assets/fonts/CentraNo2-Bold.ttf');
   font-weight: 700;
 }
 
 @font-face {
-  font-family:Centra ;
+  font-family:'Centra' ;
   src: url('./assets/fonts/CentraNo2-Medium.ttf');
   font-weight: 500;
 }
 
 @font-face {
-  font-family:Centra ;
+  font-family:'Centra' ;
   src: url('./assets/fonts/CentraNo2-Book.ttf');
   font-weight: 400;
 }
@@ -36,7 +36,7 @@ body{
   font-family: 'Centra', sans-serif !important;
 }
 
-h1,h2,h3,h4,h5.h6{
+h1,h2,h3,h4,h5,h6{
   margin: 0;
   padding: 0;
   line-height: normal ;
@@ -48,11 +48,11 @@ nav.navbar{
   width: 100%;
   top: 0;
   z-index: 9999;
-  transition: 0.32 ease-in-out;
+  transition: 0.32s ease-in-out;
 }
 
 nav.navbar.scrolled{
-  padding: 0px 0;
+  padding: 0;
   background-color: #121212;
 }
 
@@ -140,7 +140,7 @@ span.navbar-text{
 
 .navbar-text button::before{
   content: '';
-  width: 0%;
+  width: 0;
   height: 100%;
   background-color: white;
   position: absolute;
