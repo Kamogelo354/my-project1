@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-project1/static/css/main.cc8f6347.css",
+    "main.js": "/my-project1/static/js/main.8dedf13f.js",
+    "static/js/453.4b37c39e.chunk.js": "/my-project1/static/js/453.4b37c39e.chunk.js",
+    "static/media/CentraNo2-Bold.ttf": "/my-project1/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/my-project1/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/my-project1/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/logo.svg": "/my-project1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/my-project1/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/my-project1/index.html",
+    "static/media/nav-icon1.svg": "/my-project1/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/my-project1/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.cc8f6347.css.map": "/my-project1/static/css/main.cc8f6347.css.map",
+    "main.8dedf13f.js.map": "/my-project1/static/js/main.8dedf13f.js.map",
+    "453.4b37c39e.chunk.js.map": "/my-project1/static/js/453.4b37c39e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc8f6347.css",
+    "static/js/main.8dedf13f.js"
+  ]
+}
